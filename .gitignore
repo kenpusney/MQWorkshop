@@ -1,0 +1,8 @@
+**/.DS_Store
+**/.gradle
+**/*.iml
+**/*.ipr
+**/*.iws
+**/out
+**/build/
+*Impl.java
